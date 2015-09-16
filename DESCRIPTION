@@ -1,0 +1,9 @@
+Package: elasso
+Title: enhanced least absolute shrinkage operator (elasso)
+Version: 1.0
+Author: Pi Guo
+Maintainer: Pi Guo <guopi.01@163.com>
+Description: enhanced least absolute shrinkage operator for Logistic regression model
+Depends: R (>= 3.0.2), glmnet, SiZer, datasets
+License: GPL-2
+LazyData: true
